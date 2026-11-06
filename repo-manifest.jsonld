@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/doxylink/commit/8e8046908004d7953d05acb26558376b376ee267",
       "git:hexsha": "8e8046908004d7953d05acb26558376b376ee267",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/doxylink/commit/833fd4825e46aab8060171fe9f31174aefa23ebf",
